@@ -6,7 +6,7 @@ import Formulario from './components/Formulario';
 function App() {
   return (
     <div className="container">
-      <h1 className='text-primary'>Formularios con firebase</h1>
+      <h1 className='text-primary'>buona mangiata</h1>
       <Formulario/>
     </div>
   );
